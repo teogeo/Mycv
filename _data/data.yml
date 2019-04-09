@@ -14,30 +14,26 @@ sidebar:
     # Sidebar links
     email: teogeo1998@gmail.com
     github: teogeo
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Greek
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
+      - item: Travelling
         link:
 
-      - item: Snowboarding
-        link:
+      - item: Football
+        link: https://www.fciraklis.gr/
 
-      - item: Cooking
-        link:
+      
 
 career-profile:
     title: Career Profile
