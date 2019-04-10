@@ -7,13 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Theodoros Georgiadis
+    name: Georgiadis Theodoros
     tagline: Department of Informatics Undergraduate Student
-    avatar: 55648174_2096098147170486_8548492555640111104_n.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: teogeo1998@gmail.com
+    email: p16geor1@ionio.gr
+    phone: 
+    website:  
+    linkedin: 
     github: teogeo
+    gitlab:
+    bitbucket:
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -23,44 +29,63 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Independent User
 
+      - idiom: 
+        level:
+        
+      - idiom: 
+        level:
 
     interests:
       - item: Travelling
         link:
 
       - item: Football
-        link: https://www.fciraklis.gr/
+        link:
 
-      
-career-profile :
+      - item: 
+        link:
+
+career-profile:
     title: About me
     summary: |
- My name is Theodoros Georgiadis and I am 20 years old.My origin is from Thessaloniki,Greece.
-      
+         I am studying to take my first degree in computer science.I am a third-year student at Department of Informatics at Ionian University.I study some programming languages that I learn throughout my semester and in my spare time and i like to learn new things about the science of computer science.
 
 education:
     - degree: Computer Science
       university: Ionian University
       time: 2016 - 2020
-      details:  
+      details: |
+     
 
     
+
+       
+    
+
+
+       
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C
-        level: 80%
-
-      - name: Java
-        level: 80%
-
     
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Javascript 
+        level: 98%
 
+     
+      - name: HTML5 
+        level: 95%
+
+     
+      - name:  Photoshop
+        level: 50%
+        
+       - name: Python 
+        level: 65%
+    
 
