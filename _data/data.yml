@@ -37,21 +37,14 @@ sidebar:
 career-profile :
     title: About me
     summary: |
+ My name is Theodoros Georgiadis and I am 20 years old.My origin is from Thessaloniki,Greece.
       
 
 education:
     - degree: Computer Science
       university: Ionian University
       time: 2016 - 2020
-      details: |My name is Theodoros Georgiadis and I am 20 years old.
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      details:  
 
     
 
