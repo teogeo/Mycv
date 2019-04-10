@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My nane is Theodoros Georgiadis and I am 20 years old.My origin is from Thessaloniki,Greece.
+      My name is Theodoros Georgiadis and I am 20 years old.My origin is from Thessaloniki,Greece.I live in Corfu,Greece and i am third-year student at Department of Informatics at Ionian University
 
 education:
     - degree: Computer Science
@@ -70,22 +70,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java 
+        level: 50%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C
+        level: 80%
 
-      - name: Angular
-        level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
 
 footer: >
